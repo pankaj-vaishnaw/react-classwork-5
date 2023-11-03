@@ -1,0 +1,45 @@
+
+.family{
+  color: #991F48;
+  font-size:xx-large;
+}
+.carousel-container {
+  width: 100%;
+}
+
+.carousel-item img {
+  width: 100%;
+}
+.about{
+  background-color: #991F48;
+  height: 40%;
+  text-align: center;
+  color: aliceblue;
+}
+.navbar{
+
+  font-weight: 400;
+  color: aliceblue;
+}
+.navbar:hover{
+  background-color: #991F48;
+  
+}
+button{
+  border: 1px solid white;
+  height: 30px;
+  width: 200px;
+  margin: 40px;
+}
+img{
+  width: 100%;
+  height: 300px;
+}
+.second-about-div{
+  text-align: center;
+  border-bottom: 1px solid black;
+  margin-top: 30px;
+}
+.third-about-div{
+  text-align: center;
+}
